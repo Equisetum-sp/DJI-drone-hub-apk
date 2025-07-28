@@ -138,4 +138,7 @@ dependencies {
 
     /** <-----------------RootEncoder for RTSP by pedroSG94--------------------> **/
     implementation 'com.github.pedroSG94.RootEncoder:library:2.6.1'
+
+    /** <-----------------JSON--------------------> **/
+    implementation 'org.jetbrains.kotlinx:kotlinx-serialization-json:1.8.0'
 }
